@@ -109,3 +109,7 @@ There is no significant correlation (r = -0.0475).
 **Dashboard 3:**  
 ![Dashboard 3](https://raw.githubusercontent.com/xiaojie10/nyc_job_postings_analysis/main/Data/dashboard3.png)
 
+## Contact
+Xiaojie Li
+
+Email: xiaojieli.xl@gmail.com
