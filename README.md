@@ -21,6 +21,8 @@ The dataset includes fields such as job title, agency, salary range (from/to), p
 ## Tools and Technologies
 
 * **SQL:** Used to remove duplicate job entries, convert hourly/daily salaries to annual salaries, calculate mean salary from the salary range (`Salary Range From` and `Salary Range To`), and keep only relevant fields for analysis.
+
+**Example: Deleting duplicate postings with SQL**
 ```sql
 -- Delete Duplicate Jobs
 DELETE FROM nyc_jobs
